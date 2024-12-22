@@ -1,0 +1,49 @@
+/* Estilo Geral */
+body {
+  background:url(./assets/fundo.jpg) no-repeat top center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+#inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+#inicio button, #tabuleiro button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #000000;
+    color: rgb(245, 243, 243);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#tabuleiro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    display: none;
+}
+
+.tabuleiro {
+    width: 400px;
+    height: 400px;
+    background-image: url('./assets/xadrez.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.escondido {
+    display: none;
+}
