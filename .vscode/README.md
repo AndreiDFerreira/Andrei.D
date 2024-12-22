@@ -28,7 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
--Figma
+  -Figma
+
 ## 💻 Projeto
 
 Em desenvolvimento.
@@ -36,12 +37,12 @@ Em desenvolvimento.
 ## 🔖 Layout
 
 Em desenvolvimento.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
-
 
 <!--START_SECTION:footer-->
 
